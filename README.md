@@ -1,0 +1,2 @@
+# GameOfLife
+Java SWING application
